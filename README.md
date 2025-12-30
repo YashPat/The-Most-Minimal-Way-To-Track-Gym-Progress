@@ -13,7 +13,7 @@ Detailed tracking is time-consuming. Some people want accountability but find lo
 - Tracking inconsistently
 - Abandoning their routine
 
-This is unforunate because tracking progress can be very beneficial for long-term success in the gym.
+This is unfortunate because tracking progress can be very beneficial for long-term success in the gym.
 
 ## The Solution
 
