@@ -1,4 +1,4 @@
-# Minimal Tracking: Sets Per Muscle Group
+# A Minimalists Approach to Lifting
 
 ## Research Foundation
 
