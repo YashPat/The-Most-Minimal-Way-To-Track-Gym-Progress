@@ -13,13 +13,13 @@ Detailed tracking is time-consuming. Some people want accountability but find lo
 - Tracking inconsistently
 - Abandoning their routine
 
-Tracking progress is very beneficial for long-term success.
+This is unforunate because tracking progress can be very beneficial for long-term success in the gym.
 
 ## The Solution
 
 Most tracking methods require logging reps, weight, sets, rest timers, and RPE. That works if you're willing to invest the time. But what if you only tracked one thing: **how many sets close to failure you completed for each muscle group?**
 
-That's what actually matters for muscle growth.
+This is ultimately what matters for muscle growth.
 
 ---
 
