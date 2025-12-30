@@ -2,7 +2,7 @@
 
 ## Research Foundation
 
-The 2024 meta-analysis of 60+ studies on resistance training dose-response shows that **10-20 sets per muscle group per week, performed close to failure, is optimal for muscle growth.**
+The [2024 meta-analysis of 60+ studies](https://sportrxiv.org/index.php/server/preprint/view/460) on resistance training dose-response shows that **10-20 sets per muscle group per week, performed close to failure, is optimal for muscle growth.**
 
 ---
 
