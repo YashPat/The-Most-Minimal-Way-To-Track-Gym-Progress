@@ -15,10 +15,6 @@ Detailed tracking is time-consuming. Some people want accountability but find lo
 
 Tracking progress is very beneficial for long-term success.
 
-## Simplicity enables consistency.
-
-The best tracking system is the one you actually use. By removing friction, this approach makes it easier to stay consistent, which matters more than perfect data.
-
 ## The Solution
 
 Most tracking methods require logging reps, weight, sets, rest timers, and RPE. That works if you're willing to invest the time. But what if you only tracked one thing: **how many sets close to failure you completed for each muscle group?**
@@ -27,14 +23,9 @@ That's what actually matters for muscle growth.
 
 ---
 
-## The Problem
+## Simplicity enables consistency.
 
-Detailed tracking is time-consuming. Some people want accountability but find logging every rep and weight too much. They end up:
-- Not tracking at all
-- Tracking inconsistently
-- Abandoning their routine
-
-Tracking progress is very beneficial for long-term success.
+The best tracking system is the one you actually use. By removing friction, this approach makes it easier to stay consistent, which matters more than perfect data.
 
 ---
 
